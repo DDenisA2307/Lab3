@@ -1,3 +1,4 @@
+```
 [root@Lab3mdadmin ~]# mdadm -D /dev/md0
 /dev/md0:
            Version : 1.2
@@ -249,3 +250,4 @@ tmpfs           100M     0  100M   0% /run/user/1000
 /dev/md0p3       44M  1.1M   40M   3% /raid/part3
 /dev/md0p4       45M  1.1M   40M   3% /raid/part4
 /dev/md0p5       44M  1.1M   40M   3% /raid/part5
+```
